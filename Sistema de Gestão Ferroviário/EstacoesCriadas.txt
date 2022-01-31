@@ -1,0 +1,4 @@
+Porto,PORT,44,22
+Aveiro,AVEI,1,1
+Algarve,ALGA,99,8
+Lisboa,LISB,7,2

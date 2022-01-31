@@ -1,0 +1,2 @@
+AVEI_ALGA,Aveiro,Algarve,10893.02 km,300 km/h
+LISB_PORT,Lisboa,Porto,4551.99 km,200 km/h
